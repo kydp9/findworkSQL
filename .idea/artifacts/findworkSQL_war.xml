@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="findworkSQL:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="JobFinderOne.war">
+      <element id="artifact" artifact-name="findworkSQL:war exploded" />
+    </root>
+  </artifact>
+</component>
